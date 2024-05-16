@@ -1,6 +1,6 @@
 <h1>Jonathan Tpoloza</h1>
 <br><hr>
-<img src="https://images.app.goo.gl/j6ubuZZuBXamX246A" alt="...">
+<img src="https://desafiolatam.com/assets/images/hireline/hireline_logo_adl.png" alt="..." >
 <ul>
   <li>Curso de python</li>
   <li>Modulo 2</li>
