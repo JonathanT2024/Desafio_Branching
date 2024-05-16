@@ -1,4 +1,4 @@
-<h1>Jonathan Tpoloza</h1>
+<h1>Jonathan Toloza</h1>
 <br><hr>
 <img src="https://desafiolatam.com/assets/images/hireline/hireline_logo_adl.png" alt="..." >
 <ul>
